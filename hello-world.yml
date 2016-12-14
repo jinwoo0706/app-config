@@ -1,15 +1,1 @@
-{
-  "name" : "hello-world",
-  "profiles": [
-    "default"
-  ],
-  "label" : "master",
-  "propertySources" : [
-    {
-      "name" : "https://gitgub.com/jinwoo0706/app-config.git/hello-world.yml
-      "source" : {
-        "name" : "jinwoo"
-      }
-    }
-  ]
-}
+name : jinwoo
